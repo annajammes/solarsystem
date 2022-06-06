@@ -3,5 +3,8 @@ public class Main {
 Solara system milkyway=new Solar system;
         System.out.println("Hello world!");
         milkyway.sun=1;
+        Sun saima=new Sun;
+        saima.heat=123
+                saima.tempertaure=1.5678567;
     }
 }
