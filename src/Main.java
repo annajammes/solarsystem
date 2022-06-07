@@ -6,5 +6,9 @@ Solara system milkyway=new Solar system;
         Sun saima=new Sun;
         saima.heat=123
                 saima.tempertaure=1.5678567;
+        planet2 platipus=new planet2;
+        platipus.color=green;
+        platipus.size=123456;
+        
     }
 }
