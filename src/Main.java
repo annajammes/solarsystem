@@ -6,5 +6,9 @@ Solara system milkyway=new Solar system;
         Sun saima=new Sun;
         saima.heat=123
                 saima.tempertaure=1.5678567;
+        Plant1 nawal=new Planet1;
+       nawal. color=green;
+       nawal.size=123;
+
     }
 }
